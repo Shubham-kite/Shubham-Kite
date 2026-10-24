@@ -1,42 +1,56 @@
+<div align="center">
 
+# Shubham Kite
 
-Hi 👋 My name is Shubham Kite
-=============================
+### Python · Web Development · Data Science
 
-* 🧠  I'm learning Data Science and Web-Development
+Building projects, learning by doing, and exploring ideas with code.
 
-<a href="https://www.github.com/Shubham-kite" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Shubham-kite?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shubham-kite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kite-958aa51b4)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kite.shubham)
 
-### Skills
+</div>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+---
 
+## 👋 About me
 
-### Socials
+- 🐍 I enjoy working with **Python** and exploring **data science**.
+- 🌐 I build web projects with **Django** and the web stack.
+- 📚 I like learning by building practical projects.
 
-<p align="left"> <a href="https://www.github.com/Shubham-kite" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kite.shubham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shubham-kite-958aa51b4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## 🛠️ Tech stack
 
-### Badges
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222)
 
-<b>My GitHub Stats</b>
+## 🚀 Featured projects
 
-<a href="http://www.github.com/Shubham-kite"><img src="https://github-readme-stats.vercel.app/api?username=Shubham-kite&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shubham-kite's GitHub stats" /></a>
+| Project | What it is |
+| --- | --- |
+| [📚 Online Library](https://github.com/Shubham-kite/Online-Library) | A Django library web app with user registration and login. |
+| [📈 Stonk](https://github.com/Shubham-kite/Stonk) | A simple app that provides stock information. |
+| [📊 DataScience-](https://github.com/Shubham-kite/DataScience-) | Python code and notebooks related to data science. |
 
-<a href="http://www.github.com/Shubham-kite"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-kite&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📊 GitHub at a glance
 
-<a href="http://www.github.com/Shubham-kite"><img src="https://activity-graph.herokuapp.com/graph?username=Shubham-kite&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="center">
 
-<a href="https://github.com/Shubham-kite" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-kite&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham-kite&show_icons=true&hide_border=true&theme=transparent)](https://github.com/Shubham-kite)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-kite&layout=compact&hide_border=true&theme=transparent)](https://github.com/Shubham-kite)
 
-<b>Top Repositories</b>
+</div>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+<div align="center">
+
+*Thanks for visiting — feel free to explore my repositories!*
+
+</div>
