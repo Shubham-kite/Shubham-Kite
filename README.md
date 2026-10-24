@@ -1,10 +1,6 @@
 <div align="center">
 
-# Shubham Kite
-
-### Python · Web Development · Data Science
-
-Building projects, learning by doing, and exploring ideas with code.
+<img src="./assets/profile-glass.svg" alt="Shubham Kite — Python, web development, and data science" width="100%">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shubham-kite)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kite-958aa51b4)
